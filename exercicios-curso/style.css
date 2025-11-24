@@ -19,33 +19,6 @@ h1{
 
 }
 
-section{
-    background-color: lightgray;
-    padding: 10px;
-    border-radius: 15px;
-    margin: 10px 0px 10px 0px;
-    text-align: justify;
-    font-size: 10pt;
-    
-}
-h2{
-    font-size: 1.5em;
-    color: #0E3386;
-}
-p{
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    unicode-bidi: isolate;
-}
-img{
-    width: 60px;
-    display: block;
-    float: left; 
-    margin: 10px 10px 10px 0;
-}
 a{
     color: black;
     font-weight: bold;
