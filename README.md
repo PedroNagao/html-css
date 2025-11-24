@@ -13,7 +13,7 @@ Este repositório contém todos os exercícios realizados durante minha aprendiz
 
 ## 🚀 GitHub Pages
 Acesse a lista completa dos exercícios aqui:  
-👉 https://pedrohnagao.github.io/html-css/
+👉 https://pedronagao.github.io/html-css/
 
 
 
