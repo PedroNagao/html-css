@@ -3,6 +3,10 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     margin: 10;
     font-size: 13pt;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    height: 100vh;
 }
 main{
     background-color: rgb(255, 255, 255);
@@ -16,6 +20,7 @@ main{
 h1{
     font-size: 2em;
     color:#004687 ;
+    text-align: center;
 
 }
 
